@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En Artesanía Natural, nos enfocamos en la creación de piezas artesanales inspiradas en la naturaleza. Cada producto es elaborado a mano utilizando materiales naturales y sostenibles, reflejando nuestro respeto por el medio ambiente.",
+        "description": "En Artesanía Natural, nos enfocamos en la creación de piezas artesanales inspiradas en la naturaleza. Cada producto es elaborado a mano utilizando materiales sintéticos y personalizados en chaquiras, mostacillas, herrajes y murano. También comercializamos joyeria en acero, cadenas, tobilleras, aretes y anillos.",
         "img": "/assets/images/2.png"
       },
       {
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 310 2601016",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "artesanianatural@hotmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Tiktok",
+        "description": "@artesaníanatural1",
+        "icon": "/assets/images/tiktok.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "artesanía natural",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
